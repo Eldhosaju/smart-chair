@@ -1,11 +1,11 @@
 # smart-chair
-#FIELD/ STREAM OF ENGINEERING OF THE PROJECT
+# FIELD/ STREAM OF ENGINEERING OF THE PROJECT
 ● Electronics and communication
 ● Electrical and electronics
 ● Mechanical
-#PROBLEM STATEMENT :
+# PROBLEM STATEMENT :
 Aiding Handicapped people
-#IDEA :
+# IDEA :
 Many people are suffering of temporary or permanent disabilities due to illnesses or
 accidents. For cases of difficult or impossible walking, the use of a wheelchair is
 becoming essential. Manual or electric wheelchairs are satisfying most of the low and
@@ -25,7 +25,7 @@ wheelchair. The wheelchair has also been developed to work on movement of
 accelerometer which will help the person whose limbs are not working. Accelerometer
 can be attached to the physically disabled person’s head which he can easily move. It
 has also has a provision of joystick for disabled person who can easily move.
-#WORKING :
+# WORKING :
 A smart wheelchair can restore autonomy to patients with sensori-motor disabilities by
 enabling them to move around freely without depending on the caregivers. The
 objective of a smart wheelchair is to reduce user effort in controlling the wheelchair and
